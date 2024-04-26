@@ -78,6 +78,7 @@ body {
         padding: 15px 25px;
         font-family: Roboto;
         font-weight: 600;
+        transition: 0.5s;
     }
 
     .btn-blue:hover {   
